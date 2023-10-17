@@ -7,7 +7,7 @@ export default function Contact() {
       <div
         className="glass text-center"
         style={{ display: 'flex', flexDirection: 'column', gap: '1rem', alignItems: 'center' }}>
-        <img src={headshot} alt="Cool looking guy" width="81" loading="lazy" />
+        <img src={headshot} alt="Smiling Scott" width="81" height="81" loading="lazy" />
 
         <div> If you would like to work together please send an email to</div>
 
