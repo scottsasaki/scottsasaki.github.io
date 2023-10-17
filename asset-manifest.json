@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.af7759e8.css",
-    "main.js": "/static/js/main.539ca1c8.js",
+    "main.css": "/static/css/main.9e4f322c.css",
+    "main.js": "/static/js/main.00d1d47f.js",
     "static/js/787.9d9f6244.chunk.js": "/static/js/787.9d9f6244.chunk.js",
     "static/media/scott-sasaki.png": "/static/media/scott-sasaki.2a13fcb9a6f689207c9f.png",
-    "static/media/taco.svg": "/static/media/taco.7ee6fc699db0ecb1b9147acf24773017.svg",
     "index.html": "/index.html",
-    "main.af7759e8.css.map": "/static/css/main.af7759e8.css.map",
-    "main.539ca1c8.js.map": "/static/js/main.539ca1c8.js.map",
+    "static/media/taco.svg": "/static/media/taco.7ee6fc699db0ecb1b9147acf24773017.svg",
+    "main.9e4f322c.css.map": "/static/css/main.9e4f322c.css.map",
+    "main.00d1d47f.js.map": "/static/js/main.00d1d47f.js.map",
     "787.9d9f6244.chunk.js.map": "/static/js/787.9d9f6244.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.af7759e8.css",
-    "static/js/main.539ca1c8.js"
+    "static/css/main.9e4f322c.css",
+    "static/js/main.00d1d47f.js"
   ]
 }
