@@ -183,9 +183,11 @@ img {
 
 .welcome {
   padding: 1rem;
+  line-height: 1.5rem;
 }
 
-.welcome b {
+.welcome .strong {
+  font-weight: 600;
   color: #fff;
 }
 

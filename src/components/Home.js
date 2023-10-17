@@ -1,4 +1,4 @@
-import logo from '../images/taco.svg';
+import logo from 'images/taco.svg';
 
 export default function Navigation() {
   return (
@@ -6,13 +6,15 @@ export default function Navigation() {
       <section className="bg-pink welcome text-center">
         <div className="card hero" role="banner">
           <img src={logo} id="taco" className="taco" alt="Glowing Taco" />
-          <div className="greeting">Hello.</div>
-          <p>
-            My name is <b className="text-caps">Scott Sasaki</b> and I do
-            <br />
-            <b>Frontend Web Development</b>
-            <br /> based in Las&nbsp;Vegas/Remote.
-          </p>
+          <div className="greeting">Hello,</div>
+          <div>
+            <div>My name is </div>
+            <div className="strong">Scott Sasaki</div>
+            <div> and I do</div>
+
+            <div className="strong">Frontend Web Development</div>
+            <div>Remotely and in Las&nbsp;Vegas</div>
+          </div>
         </div>
       </section>
       <section>
