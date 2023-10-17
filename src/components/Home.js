@@ -1,4 +1,4 @@
-import logo from '../images/taco.svg';
+import logo from 'images/taco.svg';
 
 export default function Navigation() {
   return (

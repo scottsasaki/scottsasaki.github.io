@@ -1,4 +1,4 @@
-import headshot from '../images/scott-sasaki.png';
+import headshot from 'images/scott-sasaki.png';
 
 export default function Contact() {
   return (
