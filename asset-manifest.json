@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.3817907b.css",
-    "main.js": "/static/js/main.0899e212.js",
+    "main.js": "/static/js/main.d7eb3b56.js",
     "static/js/787.9d9f6244.chunk.js": "/static/js/787.9d9f6244.chunk.js",
     "static/media/scott-sasaki.png": "/static/media/scott-sasaki.2a13fcb9a6f689207c9f.png",
     "index.html": "/index.html",
     "static/media/taco.svg": "/static/media/taco.7ee6fc699db0ecb1b9147acf24773017.svg",
     "main.3817907b.css.map": "/static/css/main.3817907b.css.map",
-    "main.0899e212.js.map": "/static/js/main.0899e212.js.map",
+    "main.d7eb3b56.js.map": "/static/js/main.d7eb3b56.js.map",
     "787.9d9f6244.chunk.js.map": "/static/js/787.9d9f6244.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3817907b.css",
-    "static/js/main.0899e212.js"
+    "static/js/main.d7eb3b56.js"
   ]
 }
